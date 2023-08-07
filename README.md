@@ -1,8 +1,8 @@
 
-### Olá! Eu sou o Kerlley Pacheco ✌️
+## Olá! Eu sou o Kerlley Pacheco ✌️
 
-![Kerlley Pacheco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kerlleyp&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kerlleyp&layout=compact&icons=true&theme=radical)
+![Kerlley Pacheco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kerlleyp&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kerlleyp&layout=compact&icons=true&theme=highcontrast)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/kerlley-pacheco-b31927210/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Kerlleypacheco)
