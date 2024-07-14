@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kerlley Pacheco and I'm a Programador.</h2>
+<h2 align="left">Hi 👋! Meu nome e Kerlley Pacheco e eu sou um Programador.</h2>
 ###
 <div align="center">
   <img src="https://profile-counter.glitch.me/Kerlleyp/count.svg?"  />
