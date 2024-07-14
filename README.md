@@ -1,4 +1,8 @@
 <h2 align="left">Hi 👋! My name is Kerlley Pacheco and I'm a Programador.</h2>
+###
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Kerlleyp/count.svg?"  />
+</div>
 
 ###
 
@@ -34,11 +38,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Kerlleyp/Kerlleyp/output/snake.svg" alt="Snake animation" />
 
 ###
