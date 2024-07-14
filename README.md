@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Meu nome e Kerlley Pacheco e eu sou um Programador.</h2>
+<h2 align="left">Prazer! Sou o Kerlley Pacheco 👋!</h2>
 
 ###
 
