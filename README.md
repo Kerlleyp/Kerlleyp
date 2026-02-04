@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://th.bing.com/th/id/R.31666e8af4af331e6713c4ac60edf87d?rik=cUthl4OL7EezUA&pid=ImgRaw&r=0"  />
+
 
 ###
 
